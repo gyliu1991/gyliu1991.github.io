@@ -15,6 +15,7 @@ Research Areas
 * Data Privacy and Security
 * Machine Unlearning
 * Membership Inference Attacks
+
 If you are interested in my research areas, please feel free to drop me an email.
 
 
