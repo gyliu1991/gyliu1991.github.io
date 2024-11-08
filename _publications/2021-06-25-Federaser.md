@@ -5,6 +5,6 @@ category: conferences
 permalink: /publication/2021-06-25-Federaser
 excerpt: 'Gaoyang Liu, Xiaoqiang Ma, Yang Yang, Chen Wang, Jiangchuan Liu'
 date: 2021-06-25
-venue: 'In Proceedings of IEEE/ACM IWQoS'
+venue: 'IEEE/ACM International Workshop on Quality of Service (IWQoS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9521274/'
 ---
