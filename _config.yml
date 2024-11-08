@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: 
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Gaoyang Liu"
-  #pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Better to run than curse the road"
-  #location         : "Earth"
-  #employer         : "Red Brick University"
-  #uri              : # URL
+  location         : #"Earth"
+  employer         : #"Red Brick University"
+  uri              : # URL
   email            : "gaoyangliu2020@gmail.com" 
 
   # Academic websites
