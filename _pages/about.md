@@ -11,7 +11,7 @@ I'm a Post-Doctoral Researcher with the School of Computing Science, Simon Frase
 
 Research Areas
 ====
-* AI Security
+* Trustworthy Machine Learning (Safety, Privacy, and Security)
 * Machine Unlearning
 * Data Privacy and Security
 * Membership Inference Attacks
