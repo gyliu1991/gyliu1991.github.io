@@ -1,7 +1,7 @@
 ---
 title: "Seeing is Believing: Black-box Membership Inference Attacks Against Retrieval Augmented Generation"
-collection: publications
-category: preprints
+collection: preprints
+category: manuscripts
 permalink: /publication/2024-06-27-Seeing-is-Believing
 excerpt: 'Yuying Li, Gaoyang Liu (Corresponding Author), Yang Yang, Chen Wang'
 date: 2024-06-27
