@@ -20,3 +20,9 @@ Service
 ======
 * TPC member for HPCC-25.
 * Reviewer for IEEE TDSC, IEEE TIFS, IEEE TNNLS, IEEE TMC.
+
+Honors and Awards
+======
+* Merit Student of Huazhong University of Science and Technology	2019, 2020
+* Outstanding Graduate of Huazhong University of Science and Technology 2015, 2021
+* One of the Best Papers of 20th IEEE MDM 2019
