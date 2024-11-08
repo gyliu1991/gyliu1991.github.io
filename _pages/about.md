@@ -14,7 +14,10 @@ Research Interests
 * AI Security
 * Machine Unlearning
 * Data Privacy and Security
-* Membership Inference Attacks 
+* Membership Inference Attacks
+If you are interested in my works, please feel free to drop me an email.
+
+
 
 Selected Publications
 ====
