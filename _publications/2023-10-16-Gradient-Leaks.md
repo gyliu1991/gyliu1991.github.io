@@ -1,5 +1,5 @@
 ---
-title: "Gradient Leaks: Enabling Black Box Membership Inference Attacks Against Machine Learning Models
+title: "Gradient-Leaks: Enabling Black-Box Membership Inference Attacks Against Machine Learning Models"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-16-Gradient-Leaks
