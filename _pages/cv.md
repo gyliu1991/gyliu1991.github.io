@@ -23,6 +23,9 @@ Service
 
 Honors and Awards
 ======
-* Merit Student of Huazhong University of Science and Technology	- 2019, 2020
-* Outstanding Graduate of Huazhong University of Science and Technology - 2015, 2021
-* One of the Best Papers of 20th IEEE MDM - 2019
+* (2021) Outstanding Graduate of Huazhong University of Science and Technology
+* (2020) Merit Student of Huazhong University of Science and Technology
+* (2019) One of the Best Papers of 20th IEEE MDM
+* (2019) Merit Student of Huazhong University of Science and Technology
+* (2015) Outstanding Graduate of Huazhong University of Science and Technology
+
