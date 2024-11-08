@@ -1,7 +1,7 @@
 ---
 title: "Shielding Sensitive Medical Imaging Data"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/2024-07-11-Shielding-Sensitive-Medical-Imaging-Data
 excerpt: '**Gaoyang Liu**, Chen Wang, Tian Xia'
 date: 2024-07-11
