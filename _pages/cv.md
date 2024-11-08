@@ -16,6 +16,7 @@ Education
 * M.S. (Advisor: Prof. Hongbo Jiang), Huazhong University of Science and Technology, 2015.9--2016.6
 * B.S., Huazhong University of Science and Technology, 2011.9--2015.6
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* TPC member for HPCC-25.
+* Reviewer for IEEE TDSC, IEEE TIFS, IEEE TNNLS, IEEE TMC.
