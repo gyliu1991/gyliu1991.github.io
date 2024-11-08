@@ -21,3 +21,4 @@ If you are interested in my research areas, please feel free to drop me an email
 
 Selected Publications
 ====
+| ![CCPR](https://github.com/gyliu1991/gyliu1991.github.io/blob/master/images/bio-photo-2.jpg) | 123 | qwe |
