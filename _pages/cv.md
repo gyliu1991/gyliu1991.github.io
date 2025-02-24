@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Work
+======
+* Assistant Professor, Huazhong University of Science and Technology, 2025.2--Now.
+
 Education
 ======
-* Postdoctoral Fellow (Advisor: Prof. Jiangchuan Liu), Simon Fraser University, 2021.9--Now.
+* Postdoctoral Fellow (Advisor: Prof. Jiangchuan Liu), Simon Fraser University, 2021.9--2024.8
 * Ph.D. (Advisor: Prof. Chen Wang), Huazhong University of Science and Technology, 2016.9--2021.6
 * M.S. (Advisor: Prof. Hongbo Jiang), Huazhong University of Science and Technology, 2015.9--2016.6
 * B.S., Huazhong University of Science and Technology, 2011.9--2015.6
