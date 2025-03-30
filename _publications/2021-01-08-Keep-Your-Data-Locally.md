@@ -1,6 +1,6 @@
 ---
 title: "Keep Your Data Locally: Federated Learning-Based Data Privacy Preservation in Edge Computing"
-collection: publications
+collection: year2021
 category: manuscripts
 permalink: /publication/2021-01-08-Keep-Your-Data-Locally
 excerpt: '**Gaoyang Liu**, Chen Wang, Xiaoqiang Ma, Yang Yang'
