@@ -1,7 +1,7 @@
 ---
 title: "Federaser: Enabling Efficient Client-Level Data Removal From Federated Learning Models"
-collection: year2021
-category: conferences
+collection: publications
+category: year2021
 permalink: /publication/2021-06-25-Federaser
 excerpt: '**Gaoyang Liu**, Xiaoqiang Ma, Yang Yang, Chen Wang, Jiangchuan Liu'
 date: 2021-06-25
