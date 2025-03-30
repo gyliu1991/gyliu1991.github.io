@@ -1,7 +1,7 @@
 ---
 title: "Manipulating Pre-Trained Encoder for Targeted Poisoning Attacks in Contrastive Learning"
 collection: publications
-category: manuscripts
+category: year2024
 permalink: /publication/2024-01-05-Manipulating-Pre-Trained Encoder
 excerpt: 'Jian Chen, Yuan Gao, **Gaoyang Liu (Corresponding Author)**, Ahmed M Abdelmoniem, Chen Wang'
 date: 2024-01-05
