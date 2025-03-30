@@ -1,6 +1,6 @@
 ---
 title: "Safeguarding Cross-Silo Federated Learning with Local Differential Privacy"
-collection: publications
+collection: year2023
 category: manuscripts
 permalink: /publication/2023-08-01-Safeguarding-Cross-Silo
 excerpt: 'Chen Wang, Xinkui Wu, Gaoyang Liu, Tianping Deng, Kai Peng, Shaohua Wan'
