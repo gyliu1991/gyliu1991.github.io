@@ -1,6 +1,6 @@
 ---
 title: "Targeted Poisoning Attacks against Multimodal Contrastive Learning (in Chinese)"
-collection: publications
+collection: year2023
 category: manuscripts
 permalink: /publication/2023-11-10-Targeted-Poisoning
 excerpt: '**Gaoyang Liu**, Weiling Wu, Jinsheng Zhang, Chen Wang'
