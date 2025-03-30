@@ -1,6 +1,6 @@
 ---
 title: "Your Model Trains on My Data? Protecting Intellectual Property of Training Data via Membership Fingerprint Authentication"
-collection: publications
+collection: year2022
 category: manuscripts
 permalink: /publication/2022-03-02-Your-Model-Trains-on-My-Data
 excerpt: '**Gaoyang Liu**, Tianlong Xu, Xiaoqiang Ma, Chen Wang'
