@@ -76,6 +76,22 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  year2025:
+      title: '2025'
+  year2024:
+      title: '2024'
+  year2023:
+      title: '2023'
+  year2022:
+      title: '2022'
+  year2021:
+      title: '2021'
+  year2020:
+      title: '2020'
+  year2019:
+      title: '2019'
+  year2018:
+      title: '2018'
   books:
     title: 'Books'
   preprints:
