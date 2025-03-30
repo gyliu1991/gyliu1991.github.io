@@ -1,6 +1,6 @@
 ---
 title: "GPS Spoofed or Not? Exploiting RSSI and TSS in Crowdsourced Air Traffic Control Data"
-collection: publications
+collection: year2020
 category: manuscripts
 permalink: /publication/2020-06-24-GPS-Spoofed-or-Not
 excerpt: '**Gaoyang Liu**, Rui Zhang, Yang Yang, Chen Wang, Ling Liu'
