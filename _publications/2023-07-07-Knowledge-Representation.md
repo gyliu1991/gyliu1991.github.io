@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Representation of Training Data with Adversarial Examples Supporting Decision Boundary"
-collection: publications
+collection: year2023
 category: manuscripts
 permalink: /publication/2023-07-07-Knowledge-Representation
 excerpt: 'Zehao Tian, Zixiong Wang, Ahmed M Abdelmoniem, **Gaoyang Liu (Corresponding Author)**, Chen Wang'
