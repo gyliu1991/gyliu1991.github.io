@@ -1,7 +1,7 @@
 ---
 title: "Disentangling Client Contributions: Improving Federated Learning Accuracy in the Presence of Heterogeneous Data"
-collection: year2023
-category: conferences
+collection: publications
+category: year2023
 permalink: /publication/2023-12-21-Disentangling
 excerpt: 'Chunming Liu, Daniyal M Alghazzawi, Li Cheng, Gaoyang Liu, Chen Wang, Cheng Zeng, Yang Yang'
 date: 2023-12-21
