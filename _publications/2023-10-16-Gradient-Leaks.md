@@ -1,7 +1,7 @@
 ---
 title: "Gradient-Leaks: Enabling Black-Box Membership Inference Attacks Against Machine Learning Models"
-collection: year2023
-category: manuscripts
+collection: publications
+category: year2023
 permalink: /publication/2023-10-16-Gradient-Leaks
 excerpt: '**Gaoyang Liu**, Tianlong Xu, Rui Zhang, Zixiong Wang, Chen Wang, Ling Liu'
 date: 2023-10-16
