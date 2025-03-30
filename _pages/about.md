@@ -11,7 +11,7 @@ I am an Assistant Professor at the School of Electronic Information and Communic
 
 What’s New
 ====
-[3/2025] Our paper “Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning” got accepted in ACM CCS 2025!
+[3/2025] Our paper “Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning” got accepted in [ACM CCS](https://www.sigsac.org/ccs/CCS2025/) 2025!
 
 Research Areas
 ====
