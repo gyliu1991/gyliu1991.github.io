@@ -1,6 +1,6 @@
 ---
 title: "Membership Inference Attacks against Machine Learning Models via Prediction Sensitivity"
-collection: publications
+collection: year2022
 category: manuscripts
 permalink: /publication/2022-06-10-Prediction-Sensitivity
 excerpt: 'Lan Liu, Yi Wang, **Gaoyang Liu (Corresponding Author)**, Kai Peng, Chen Wang'
