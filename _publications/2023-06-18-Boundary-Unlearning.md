@@ -1,6 +1,6 @@
 ---
 title: "Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting The Decision Boundary"
-collection: publications
+collection: year2023
 category: conferences
 permalink: /publication/2023-06-18-Boundary-Unlearning
 excerpt: 'Min Chen, Weizhuo Gao, Gaoyang Liu, Kai Peng, Chen Wang'
