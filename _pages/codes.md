@@ -1,13 +1,10 @@
 ---
-layout: archive
 title: "Codes"
 permalink: /codes/
 author_profile: true
 redirect_from:
   - /codes/
 ---
-
-{% include base_path %}
 
 Work
 ======
