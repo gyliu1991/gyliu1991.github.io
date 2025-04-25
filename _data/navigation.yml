@@ -9,7 +9,7 @@ main:
     url: /publications/    
 
   - title: "Codes"
-    url: /markdown/
+    url: /codes/
     
   - title: "CV"
     url: /cv/
