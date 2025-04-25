@@ -7,10 +7,10 @@
 main:
   - title: "Publications"
     url: /publications/    
+
+  - title: "Codes"
+    url: /codes/
     
   - title: "CV"
     url: /cv/
-
-  - title: "Code"
-    url: /code/
     
