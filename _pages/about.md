@@ -11,6 +11,8 @@ I am an Assistant Professor at the School of Electronic Information and Communic
 
 What’s New
 ====
+[5/2025] Our paper “From Expansion to Retraction: Long-tailed Machine Unlearning via Boundary Manipulation” got accepted in [ACM KDD](https://kdd2025.kdd.org/) !
+
 [4/2025] Our paper “Poisoning as a Post-Protection: Mitigating Membership Privacy Leakage From Gradient and Prediction of Federated Models” got accepted in [IEEE TDSC](https://gyliu1991.github.io/) !
 
 [3/2025] Our paper “Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning” got accepted in [ACM CCS](https://www.sigsac.org/ccs/CCS2025/) 2025!
