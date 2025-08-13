@@ -11,6 +11,11 @@ I am an Assistant Professor at the School of Electronic Information and Communic
 
 What’s New
 ====
+[8/2025] I was invited to serve as a Program Committee member for [AAAI-26](https://aaai.org/conference/aaai/aaai-26/).
+
+
+[8/2025] Undergraduate student I supervised qualified for the final of the 1st National College Student Artificial Intelligence Security Competition 2025 with the project “Synthetic Audio Detection Based on Environmental Background Noise”. 
+
 [5/2025] Our paper “From Expansion to Retraction: Long-tailed Machine Unlearning via Boundary Manipulation” got accepted in [ACM KDD](https://kdd2025.kdd.org/) !
 
 [5/2025] Our paper “Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models” got accepted in [ACL Fingings](https://2025.aclweb.org/) !
