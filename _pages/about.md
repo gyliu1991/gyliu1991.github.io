@@ -36,5 +36,5 @@ Research Areas
 
 Prospective Students
 ====
-Our lab has several open research positions for prospective graduate students (Ph.D./Master programs) and undergraduate research interns. We are looking for self-motivated students to work together on various exciting projects. If you are interested, please drop me an email with your CV. If you are interested, please drop me an email with your CV at [liugaoyang@hust.edu.cn] and [gaoyangliu2020@gmail.com]. 
+Our lab has several open research positions for prospective graduate students (Ph.D./Master programs) and undergraduate research interns. We are looking for self-motivated students to work together on various exciting projects. If you are interested, please drop me an email with your CV. If you are interested, please drop me an email with your CV at [liugaoyang@hust.edu.cn](liugaoyang@hust.edu.cn) and [gaoyangliu2020@gmail.com](gaoyangliu2020@gmail.com). 
 
