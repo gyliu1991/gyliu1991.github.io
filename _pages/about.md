@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the School of Electronic Information and Communications, Huazhong University of Science and Technology (华中科技大学华中卓越学者 (辰星岗) 助理教授, 教育部海外博士后引才专项计划项目入选者(回国工作层次)). Before my current position, I was a Post-Doctoral Researcher with the School of Computing Science, Simon Fraser University, BC, Canada, advised by Prof. Jiangchuan Liu (Fellow of The Canadian Academy of Engineering, IEEE Fellow). I obtained my Ph.D. from the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China in 2021, advised by Prof. Hongbo Jiang (Member of Academia Europaea, IET Fellow) and Prof. Chen Wang. I received my B.E. from the School of Electronic Information and Communications, Huazhong University of Science and Technology in 2017.
+I am an Assistant Professor at the School of Electronic Information and Communications, Huazhong University of Science and Technology (教育部海外博士后引才专项计划项目入选者(回国工作层次)). Before my current position, I was a Post-Doctoral Researcher with the School of Computing Science, Simon Fraser University, BC, Canada, advised by Prof. Jiangchuan Liu (Fellow of The Canadian Academy of Engineering, IEEE Fellow). I obtained my Ph.D. from the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China in 2021, advised by Prof. Hongbo Jiang (Member of Academia Europaea, IET Fellow) and Prof. Chen Wang. I received my B.E. from the School of Electronic Information and Communications, Huazhong University of Science and Technology in 2017.
 
 What’s New
 ====
