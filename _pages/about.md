@@ -11,7 +11,7 @@ I am an Assistant Professor at the School of Electronic Information and Communic
 
 What’s New
 ====
-[10/2025] We won the Grand Prize in the AI Special Track at the Challenge Cup hosted by the Central Committee of CYLC (2025年度中国青年科技创新“揭榜挂帅”擂台赛“人工智能领域”主擂台赛特等奖)!
+[10/2025] We won the Grand Prize in the AI Special Track at the Challenge Cup hosted by the Central Committee of CYLC (第十九届挑战杯揭榜挂帅擂台赛“人工智能领域”主擂台赛特等奖)!
 
 [8/2025] I was invited to serve as a Program Committee member for [AAAI-26](https://aaai.org/conference/aaai/aaai-26/).
 
