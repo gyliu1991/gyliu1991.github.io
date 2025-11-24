@@ -11,6 +11,8 @@ I am an Assistant Professor at the School of Electronic Information and Communic
 
 What’s New
 ====
+[11/2025] Our paper “Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space” got accepted in [ACM KDD](https://openreview.net/forum?id=L7bC0l9C0K) !
+
 [10/2025] We won the Grand Prize in the AI Special Track at the Challenge Cup hosted by the Central Committee of CYLC (第十九届挑战杯揭榜挂帅擂台赛“人工智能领域”主擂台赛特等奖)!
 
 [8/2025] I was invited to serve as a Program Committee member for [AAAI-26](https://aaai.org/conference/aaai/aaai-26/).
