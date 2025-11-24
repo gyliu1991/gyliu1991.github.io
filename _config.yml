@@ -77,6 +77,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  year2028:
+      title: '2028'
+  year2027:
+      title: '2027'
+  year2026:
+      title: '2026'
   year2025:
       title: '2025'
   year2024:
