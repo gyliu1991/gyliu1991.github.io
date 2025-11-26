@@ -23,7 +23,7 @@ Education
 Service 
 ======
 * TPC member for HPCC-25, AAAI-25.
-* Reviewer for IEEE TDSC, IEEE TIFS, IEEE TNNLS, IEEE TMC.
+* Reviewer for CVPR, AAAI, IEEE TDSC, IEEE TIFS, IEEE TNNLS, IEEE TMC.
 
 Honors and Awards
 ======
