@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the School of Electronic Information and Communications, Huazhong University of Science and Technology (教育部海外博士后引才专项计划项目入选者(回国工作层次)). Before my current position, I was a Post-Doctoral Researcher with the School of Computing Science, Simon Fraser University, BC, Canada, advised by Prof. Jiangchuan Liu (Fellow of The Canadian Academy of Engineering, IEEE Fellow). I obtained my Ph.D. from the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China in 2021, advised by Prof. Hongbo Jiang (Member of Academia Europaea, IET Fellow) and Prof. Chen Wang. I received my B.E. from the School of Electronic Information and Communications, Huazhong University of Science and Technology in 2017.
+I am an Assistant Professor at the School of Electronic Information and Communications, Huazhong University of Science and Technology (教育部海外博士后引才专项计划项目入选者(回国工作层次)), and a member of the technical committee on Artificial Intelligence and Security of CAAI. Before my current position, I was a Post-Doctoral Researcher with the School of Computing Science, Simon Fraser University, BC, Canada, advised by Prof. Jiangchuan Liu (Fellow of The Canadian Academy of Engineering, IEEE Fellow). I obtained my Ph.D. from the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China in 2021, advised by Prof. Hongbo Jiang (Member of Academia Europaea, IET Fellow) and Prof. Chen Wang. I received my B.E. from the School of Electronic Information and Communications, Huazhong University of Science and Technology in 2017.
 
 What’s New
 ====
+[12/2025] I was elected as a member of the technical committee on Artificial Intelligence and Security, Chinese Association for Artificial Intelligence (CAAI). 
+
 [11/2025] Our paper “Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space” got accepted in [ACM KDD](https://openreview.net/forum?id=L7bC0l9C0K) !
 
 [10/2025] We won the Grand Prize in the AI Special Track at the Challenge Cup hosted by the Central Committee of CYLC (第十九届挑战杯揭榜挂帅擂台赛“人工智能领域”主擂台赛特等奖)!
