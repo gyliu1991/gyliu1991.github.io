@@ -11,6 +11,9 @@ I am an Assistant Professor at the School of Electronic Information and Communic
 
 What’s New
 ====
+
+[3/2026] I was invited to serve as a Technical Program Committee member for IWCMC 2026. 
+
 [12/2025] I was elected as a member of the technical committee on Artificial Intelligence and Security, Chinese Association for Artificial Intelligence (CAAI). 
 
 [11/2025] Our paper “Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space” got accepted in [ACM KDD](https://openreview.net/forum?id=L7bC0l9C0K) !
