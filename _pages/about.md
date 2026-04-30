@@ -12,6 +12,8 @@ I am an Assistant Professor at the School of Electronic Information and Communic
 What’s New
 ====
 
+[5/2026] Our paper “Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting” got accepted in [ICML](https://kdd2025.kdd.org/) !
+
 [3/2026] I was invited to serve as a Technical Program Committee member for IWCMC 2026. 
 
 [12/2025] I was elected as a member of the technical committee on Artificial Intelligence and Security, Chinese Association for Artificial Intelligence (CAAI). 
