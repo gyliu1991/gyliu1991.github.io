@@ -14,6 +14,8 @@ What’s New
 
 [5/2026] Our paper “Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting” got accepted in [ICML](http://icml.cc/virtual/2026/poster/61297) !
 
+[5/2026] Our paper “Info-Driven Zero-Cost Proxy: Rethinking Vision Transformer Architecture Evaluation via Information Quantification” got accepted in [IJCAI](https://2026.ijcai.org/) !
+
 [3/2026] I was invited to serve as a Technical Program Committee member for IWCMC 2026. 
 
 [12/2025] I was elected as a member of the technical committee on Artificial Intelligence and Security, Chinese Association for Artificial Intelligence (CAAI). 
