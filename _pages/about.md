@@ -11,6 +11,7 @@ I am an Assistant Professor at the School of Electronic Information and Communic
 
 What’s New
 ====
+[8/2026] Our paper “Black-Box Membership Inference Attacks against Contrastive Learning via Aggressive Data Augmentations” got accepted in IEEE TDSC!
 
 [5/2026] Our paper “Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting” got accepted in [ICML](http://icml.cc/virtual/2026/poster/61297) !
 
