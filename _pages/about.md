@@ -12,9 +12,11 @@ At present, I maintain long-term academic cooperation and joint research work wi
 
 What’s New
 ====
-[9/2026] I was named among the World's Top 2% Scientists (2026) by Stanford University/Elsevier!
+[10/2026] Our paper “Manipulating Multimodal Neurons: A Semantically Guided Adversarial Attack Against Open-Vocabulary Object Detection” got accepted in IEEE TDSC! Congrats to Liangbo! 
 
-[8/2026] Our paper “Black-Box Membership Inference Attacks against Contrastive Learning via Aggressive Data Augmentations” got accepted in IEEE TDSC!
+[10/2026] I was named among the World's Top 2% Scientists (2026) by Stanford University/Elsevier!
+
+[8/2026] Our paper “Black-Box Membership Inference Attacks against Contrastive Learning via Aggressive Data Augmentations” got accepted in IEEE TDSC! Congrats to Zixiong! 
 
 [5/2026] Our paper “Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting” got accepted in [ICML](http://icml.cc/virtual/2026/poster/61297) !
 
